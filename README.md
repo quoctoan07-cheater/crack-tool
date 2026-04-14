@@ -18,7 +18,7 @@ Công cụ dòng lệnh dành cho Realme, hỗ trợ tìm và thay thế URL tro
 
 ## 🛠 Cài đặt
 
-Không cần cài đặt gì thêm. Tải script `realme_url_tool.py` về và chạy trực tiếp:
+Không cần cài đặt gì thêm. Tải script `crack.py` về và chạy trực tiếp:
 
 ```bash
-python realme_url_tool.py
+python crack.py
